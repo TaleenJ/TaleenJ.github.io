@@ -1,0 +1,28 @@
+# Hello World
+
+This is my home page! My name is Richard Perez and I am a student at CSUF 
+(http://www.fullerton.edu/) and my major is computer science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/TaleenJ.
+
+### CPSC 120
+
+Lab 8
+
+I really liked Lab 8 because we were able to convert the square root formula into code. 
+It took a while but it was really cool once it was done. After this lab I think I can 
+convert any math formula and turn it into a function.
+
+Lab 2
+
+My second favorite Lab was number two because it was the first time I used strings. 
+Although there were many lines to print out, the final result was cool. After this 
+lab I was feeling confident about using the cout statement and cin.
+
+Lab 5
+
+My third favorite lab was Lab 5 because It was cool calling different functions to 
+make black jack. It was really frustrating to work it out but I really liked the end 
+result. As usual after this I felt like a pro, after making black jack what can stop me. 
